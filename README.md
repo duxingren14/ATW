@@ -40,7 +40,7 @@ bash run.sh
 ```
 
 ### test
-* download the pretrained models from google drive
+* download the pretrained models from google drive [pretrained models](https://drive.google.com/file/d/1s-RW0NodHNc1Uk51rCwQxtvm2IugC7sV/view?usp=sharing)
 * extract the file and put the folder pretrained_ckpt/ under ./ATW/
 * uncomment the corresponding items in the run.sh, then run the following command:
 
