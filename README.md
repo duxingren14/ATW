@@ -1,4 +1,4 @@
-# Animating-Through-Wwarping 
+# Animating-Through-Warping 
 
 <p align="left">
 	<img src="./imgs/method.jpg" alt="method">
